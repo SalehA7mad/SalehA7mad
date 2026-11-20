@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00B4D8&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Saleh+Ahmad+Youssef;Applied+AI+Engineer+%26+Data+Analyst;Computer+Vision+%E2%80%A2+LLMs+(RAG)+%E2%80%A2+Smart+AgriTech](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00B4D8&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Saleh+Ahmad+Youssef;Applied+AI+Engineer+%26+Data+Analyst;Computer+Vision+%E2%80%A2+LLMs+(RAG)+%E2%80%A2+Smart+AgriTech)" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:023E8A,100:00B4D8&height=180&section=header&text=Saleh%20Ahmad%20Youssef&fontSize=38&fontColor=ffffff&fontAlignY=35&desc=Applied%20AI%20Engineer%20%26%20Data%20Analyst%20%7C%20CV%20%E2%80%A2%20RAG%20%E2%80%A2%20AgriTech%20%26%20IoT&descAlignY=58&descSize=16" width="100%" />
 
 <p align="center">
-  <a href="[https://linkedin.com/in/saleh-a7mad](https://linkedin.com/in/saleh-a7mad)"><img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)" /></a>
-  <a href="mailto:saleh.ahmad20108@gmail.com"><img src="[https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)" /></a>
-  <a href="[https://github.com/SalehA7mad](https://github.com/SalehA7mad)"><img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)" /></a>
+  <a href="https://linkedin.com/in/saleh-a7mad"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:saleh.ahmad20108@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/SalehA7mad"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 </div>
@@ -84,6 +84,6 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="165" src="[https://github-readme-stats.vercel.app/api?username=SalehA7mad&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=SalehA7mad&show_icons=true&theme=tokyonight&hide_border=true)" />
-  <img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=SalehA7mad&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=SalehA7mad&layout=compact&theme=tokyonight&hide_border=true)" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SalehA7mad&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalehA7mad&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
