@@ -1,23 +1,23 @@
 <!-- ===================== HERO ===================== -->
 <div align="center">
 
-<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:7C3AED,100:06B6D4&height=220&section=header&text=Saleh%20Ahmad%20Youssef&fontSize=44&fontColor=fff&fontAlignY=38&desc=Applied%20AI%20Engineer%20%7C%20Data%20Analyst%20%7C%20Smart%20AgriTech%20%26%20IoT&descAlignY=58&descSize=16&animation=fadeIn](https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:7C3AED,100:06B6D4&height=220&section=header&text=Saleh%20Ahmad%20Youssef&fontSize=44&fontColor=fff&fontAlignY=38&desc=Applied%20AI%20Engineer%20%7C%20Data%20Analyst%20%7C%20Smart%20AgriTech%20%26%20IoT&descAlignY=58&descSize=16&animation=fadeIn)" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:7C3AED,100:06B6D4&height=220&section=header&text=Saleh%20Ahmad%20Youssef&fontSize=44&fontColor=fff&fontAlignY=38&desc=Applied%20AI%20Engineer%20%7C%20Data%20Analyst%20%7C%20Smart%20AgriTech%20%26%20IoT&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<img src="[https://img.shields.io/badge/Applied%20AI%20Engineer-2563EB?style=for-the-badge&logo=openai&logoColor=white](https://img.shields.io/badge/Applied%20AI%20Engineer-2563EB?style=for-the-badge&logo=openai&logoColor=white)" />
-<img src="[https://img.shields.io/badge/Data%20%26%20BI%20Analyst-7C3AED?style=for-the-badge&logo=powerbi&logoColor=white](https://img.shields.io/badge/Data%20%26%20BI%20Analyst-7C3AED?style=for-the-badge&logo=powerbi&logoColor=white)" />
-<img src="[https://img.shields.io/badge/Computer%20Vision%20%26%20RAG-06B6D4?style=for-the-badge&logo=pytorch&logoColor=white](https://img.shields.io/badge/Computer%20Vision%20%26%20RAG-06B6D4?style=for-the-badge&logo=pytorch&logoColor=white)" />
+<img src="https://img.shields.io/badge/Applied_AI_Engineer-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data_%26_BI_Analyst-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Computer_Vision_%26_RAG-06B6D4?style=for-the-badge" />
 
 <br/><br/>
 
-<a href="mailto:saleh.ahmad20108@gmail.com"><img src="[https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)" /></a>
-<a href="[https://www.linkedin.com/in/saleh-a7mad/](https://www.linkedin.com/in/saleh-a7mad/)"><img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)" /></a>
-<a href="[https://github.com/SalehA7mad](https://github.com/SalehA7mad)"><img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)" /></a>
+<a href="mailto:saleh.ahmad20108@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/saleh-a7mad/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/SalehA7mad"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br/><br/>
 
-<img src="[https://komarev.com/ghpvc/?username=SalehA7mad&color=2563EB&style=for-the-badge&label=PROFILE+VIEWS](https://komarev.com/ghpvc/?username=SalehA7mad&color=2563EB&style=for-the-badge&label=PROFILE+VIEWS)" />
+<img src="https://komarev.com/ghpvc/?username=SalehA7mad&color=2563EB&style=for-the-badge&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -98,46 +98,36 @@ My work sits at the intersection of **Applied Artificial Intelligence, Computer 
 
 <!-- ===================== TECH STACK ===================== -->
 
-### 🧰 Tech Stack
+### 🧰 Tech Stack & Tools
 
-**AI, Deep Learning & Computer Vision**
+<div align="center">
 
-<img src="[https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)" />
-<img src="[https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)" />
-<img src="[https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)" />
-<img src="[https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)" />
-<img src="[https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)" />
-<img src="[https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)" />
-<img src="[https://img.shields.io/badge/Vision%20Transformers-7C3AED?style=flat-square](https://img.shields.io/badge/Vision%20Transformers-7C3AED?style=flat-square)" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,git,github,azure,arduino,mysql,vscode,powershell&perline=6" />
 
-**Generative AI, NLP & RAG Pipelines**
+<br/><br/>
 
-<img src="[https://img.shields.io/badge/RAG%20Pipelines-2563EB?style=flat-square](https://img.shields.io/badge/RAG%20Pipelines-2563EB?style=flat-square)" />
-<img src="[https://img.shields.io/badge/ChromaDB-00B4D8?style=flat-square](https://img.shields.io/badge/ChromaDB-00B4D8?style=flat-square)" />
-<img src="[https://img.shields.io/badge/BM25%20Hybrid%20Search-06B6D4?style=flat-square](https://img.shields.io/badge/BM25%20Hybrid%20Search-06B6D4?style=flat-square)" />
-<img src="[https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)" />
-<img src="[https://img.shields.io/badge/Ollama%20(Qwen)-181717?style=flat-square](https://img.shields.io/badge/Ollama%20(Qwen)-181717?style=flat-square)" />
-<img src="[https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)" />
-<img src="[https://img.shields.io/badge/LoRA%20%2F%20QLoRA-7C3AED?style=flat-square](https://img.shields.io/badge/LoRA%20%2F%20QLoRA-7C3AED?style=flat-square)" />
+**AI, Deep Learning & GenAI**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-00B4D8?style=flat-square)
+![BM25](https://img.shields.io/badge/BM25_Hybrid_Search-2563EB?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama_Qwen-181717?style=flat-square)
 
-**Data Analytics, BI & Databases**
+**Data Analytics, BI & Deployment**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT_IoT-660066?style=flat-square)
 
-<img src="[https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)" />
-<img src="[https://img.shields.io/badge/DAX-2563EB?style=flat-square](https://img.shields.io/badge/DAX-2563EB?style=flat-square)" />
-<img src="[https://img.shields.io/badge/Power%20Query-7C3AED?style=flat-square](https://img.shields.io/badge/Power%20Query-7C3AED?style=flat-square)" />
-<img src="[https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)" />
-<img src="[https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)" />
-<img src="[https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)" />
-<img src="[https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)" />
-
-**IoT, Tools & Deployment**
-
-<img src="[https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)" />
-<img src="[https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)" />
-<img src="[https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)" />
-<img src="[https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)" />
-<img src="[https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=eclipse-mosquitto&logoColor=white](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=eclipse-mosquitto&logoColor=white)" />
-<img src="[https://img.shields.io/badge/Azure%20AI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white](https://img.shields.io/badge/Azure%20AI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)" />
+</div>
 
 ---
 
@@ -229,101 +219,58 @@ My work sits at the intersection of **Applied Artificial Intelligence, Computer 
 
 ### 🏅 Certifications
 
-<img src="[https://img.shields.io/badge/Microsoft%20Certified-Power%20BI%20Data%20Analyst%20Associate%20(PL--300)-2563EB?style=for-the-badge&logo=microsoft&logoColor=white](https://img.shields.io/badge/Microsoft%20Certified-Power%20BI%20Data%20Analyst%20Associate%20(PL--300)-2563EB?style=for-the-badge&logo=microsoft&logoColor=white)" /><br/>
-<img src="[https://img.shields.io/badge/Microsoft%20Certified-Azure%20Data%20Fundamentals%20(DP--900)-2563EB?style=for-the-badge&logo=microsoftazure&logoColor=white](https://img.shields.io/badge/Microsoft%20Certified-Azure%20Data%20Fundamentals%20(DP--900)-2563EB?style=for-the-badge&logo=microsoftazure&logoColor=white)" /><br/>
-<img src="[https://img.shields.io/badge/IBM-AI%20Engineering%20Professional%20Certificate-7C3AED?style=for-the-badge&logo=ibm&logoColor=white](https://img.shields.io/badge/IBM-AI%20Engineering%20Professional%20Certificate-7C3AED?style=for-the-badge&logo=ibm&logoColor=white)" /><br/>
-<img src="[https://img.shields.io/badge/Google-Advanced%20Data%20Analytics%20Certificate-06B6D4?style=for-the-badge&logo=google&logoColor=white](https://img.shields.io/badge/Google-Advanced%20Data%20Analytics%20Certificate-06B6D4?style=for-the-badge&logo=google&logoColor=white)" /><br/>
-<img src="[https://img.shields.io/badge/Google-Data%20Analytics%20Certificate-06B6D4?style=for-the-badge&logo=google&logoColor=white](https://img.shields.io/badge/Google-Data%20Analytics%20Certificate-06B6D4?style=for-the-badge&logo=google&logoColor=white)" />
+<img src="https://img.shields.io/badge/Microsoft_Certified-Power_BI_Data_Analyst_Associate_(PL--300)-2563EB?style=for-the-badge&logo=microsoft&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Microsoft_Certified-Azure_Data_Fundamentals_(DP--900)-2563EB?style=for-the-badge&logo=microsoftazure&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/IBM-AI_Engineering_Professional_Certificate-7C3AED?style=for-the-badge&logo=ibm&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Google-Advanced_Data_Analytics_Certificate-06B6D4?style=for-the-badge&logo=google&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Google-Data_Analytics_Certificate-06B6D4?style=for-the-badge&logo=google&logoColor=white" />
 
 ---
 
-<!-- ===================== EDUCATION ===================== -->
+<!-- ===================== EDUCATION & EXPERIENCE ===================== -->
 
-### 🎓 Education
+### 🎓 Education & 💼 Experience
 
-**🏛️ Applied AI & Data Analytics Specialized Diploma**
-📍 Military Technical College (MTC) — Digilians Initiative (MCIT & Egyptian Military Academy)
-🗓️ 12/2025 – 09/2026 · Cairo, Egypt
-> Intensive 9-month specialized program covering Machine Learning, Deep Learning, NLP/LLMs, Computer Vision, Big Data, and Business Intelligence.
-
-**🎓 B.Sc. in Agricultural Engineering**
-📍 Alexandria University
-🗓️ Graduated 08/2025 · Alexandria, Egypt
-> Specialized in precision agriculture, irrigation systems engineering, and IoT-based smart farming technologies.
+- **🏛️ Applied AI & Data Analytics Specialized Diploma** — *Military Technical College (MTC) × MCIT (Digilians)* (`12/2025 – 09/2026`, Cairo)
+- **🎓 B.Sc. in Agricultural Engineering** — *Alexandria University* (`08/2025`, Alexandria)
+- **🌱 Applied AI & IoT Intern** — *Electronics Research Institute (ERI)* (`10/2026 – 11/2026`, Cairo): Built Variable Rate Irrigation (VRI) PoC integrating GIS, water-balance modeling, and MQTT.
+- **💻 Frontend Software Engineering Intern** — *ITechPro* (`10/2026`, Cairo): Contributed to Hospitality Management System (HMS) frontend engineering.
+- **📊 Accounting & Financial Operations** (`Prior to AI Transition`): Analytical reporting and reconciliation experience before transitioning into Applied AI & Data Analytics.
 
 ---
 
-<!-- ===================== EXPERIENCE ===================== -->
+<!-- ===================== GITHUB ANALYTICS & ACTIVITY ===================== -->
 
-### 💼 Experience
-
-**🌱 Applied AI & IoT Intern** — Electronics Research Institute (ERI)
-📍 Cairo, Egypt · 🗓️ 10/2026 – 11/2026
-> Engineered a Variable Rate Irrigation (VRI) smart agriculture proof-of-concept service integrating root-zone water balance modeling, GIS field data, field simulation, and MQTT messaging.
-
-**💻 Frontend Software Engineering Intern** — ITechPro
-📍 Cairo, Egypt · 🗓️ 10/2026
-> Contributed to the frontend development track of an enterprise Hospitality Management System (HMS) software platform.
-
-**📊 Accounting & Financial Operations**
-📍 Egypt · 🗓️ Prior to AI Transition
-> Built strong analytical foundations in financial reconciliation, structured reporting, and business operations prior to transitioning into Data Analytics and Applied AI.
-
----
-
-<!-- ===================== GITHUB ANALYTICS ===================== -->
-
-### 📈 GitHub Analytics
+### 📈 GitHub Streak & Contribution Activity
 
 <div align="center">
 
-<img src="[https://github-readme-stats.vercel.app/api?username=SalehA7mad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=2563EB&icon_color=7C3AED&text_color=c9d1d9](https://github-readme-stats.vercel.app/api?username=SalehA7mad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=2563EB&icon_color=7C3AED&text_color=c9d1d9)" width="49%" />
-<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=SalehA7mad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2563EB&text_color=c9d1d9](https://github-readme-stats.vercel.app/api/top-langs/?username=SalehA7mad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2563EB&text_color=c9d1d9)" width="35%" />
+<img src="https://streak-stats.demolab.com?user=SalehA7mad&theme=tokyonight&hide_border=true&background=0D1117&stroke=2563EB&ring=7C3AED&fire=06B6D4&currStreakLabel=2563EB" width="65%" />
 
-<br/>
+<br/><br/>
 
-<img src="[https://github-readme-streak-stats.herokuapp.com/?user=SalehA7mad&theme=tokyonight&hide_border=true&background=0d1117&stroke=2563EB&ring=7C3AED&fire=06B6D4&currStreakLabel=2563EB](https://github-readme-streak-stats.herokuapp.com/?user=SalehA7mad&theme=tokyonight&hide_border=true&background=0d1117&stroke=2563EB&ring=7C3AED&fire=06B6D4&currStreakLabel=2563EB)" width="60%" />
-
-<br/>
-
-<img src="[https://github-profile-trophy.vercel.app/?username=SalehA7mad&theme=tokyonight&no-frame=true&column=6&margin-w=10](https://github-profile-trophy.vercel.app/?username=SalehA7mad&theme=tokyonight&no-frame=true&column=6&margin-w=10)" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SalehA7mad&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=2563EB&line=7C3AED&point=06B6D4" width="100%"/>
 
 </div>
 
 ---
 
-<!-- ===================== ACTIVITY GRAPH ===================== -->
-
-### 🌊 Contribution Activity
-
-<div align="center">
-
-<img src="[https://github-readme-activity-graph.vercel.app/graph?username=SalehA7mad&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=2563EB&line=7C3AED&point=06B6D4](https://github-readme-activity-graph.vercel.app/graph?username=SalehA7mad&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=2563EB&line=7C3AED&point=06B6D4)" width="100%"/>
-
-</div>
-
----
-
-<!-- ===================== CONNECT ===================== -->
+<!-- ===================== CONNECT & FOOTER ===================== -->
 
 ### 🌍 Connect With Me
 
 <div align="center">
 
-<a href="mailto:saleh.ahmad20108@gmail.com"><img src="[https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)" /></a>
-<a href="[https://www.linkedin.com/in/saleh-a7mad/](https://www.linkedin.com/in/saleh-a7mad/)"><img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)" /></a>
-<a href="[https://github.com/SalehA7mad](https://github.com/SalehA7mad)"><img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)" /></a>
+<a href="mailto:saleh.ahmad20108@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/saleh-a7mad/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/SalehA7mad"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-</div>
-
-<br/>
-
-<div align="center">
+<br/><br/>
 
 ### *"Bridging domain engineering with Applied AI & Data Analytics to build practical, data-driven solutions."*
 
 <br/>
 
-<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:7C3AED,100:2563EB&height=140&section=footer&animation=fadeIn](https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:7C3AED,100:2563EB&height=140&section=footer&animation=fadeIn)" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:7C3AED,100:2563EB&height=140&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
