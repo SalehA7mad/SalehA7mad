@@ -1,27 +1,28 @@
 <!-- ===================== HERO ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:7C3AED,100:06B6D4&height=220&section=header&text=Saleh%20Ahmad%20Youssef&fontSize=44&fontColor=fff&fontAlignY=38&desc=Applied%20AI%20Engineer%20%7C%20Data%20Analyst%20%7C%20Smart%20AgriTech%20%26%20IoT&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+<h1>👋 Hi, I'm Saleh Ahmad Youssef</h1>
+<h3>Applied AI Engineer & Data Analyst | Computer Vision • Hybrid RAG • Smart AgriTech & IoT</h3>
 
-<br/>
+<p>
+  <img src="https://img.shields.io/badge/Applied_AI_Engineer-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data_%26_BI_Analyst-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Computer_Vision_%26_RAG-06B6D4?style=for-the-badge" />
+</p>
 
-<img src="https://img.shields.io/badge/Applied_AI_Engineer-2563EB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Data_%26_BI_Analyst-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Computer_Vision_%26_RAG-06B6D4?style=for-the-badge" />
+<p>
+  <a href="mailto:saleh.ahmad20108@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/saleh-a7mad/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/SalehA7mad"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
-<br/><br/>
-
-<a href="mailto:saleh.ahmad20108@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/saleh-a7mad/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/SalehA7mad"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=SalehA7mad&color=2563EB&style=for-the-badge&label=PROFILE+VIEWS" />
+<p>
+  <img src="https://komarev.com/ghpvc/?username=SalehA7mad&color=2563EB&style=for-the-badge&label=PROFILE+VIEWS" />
+</p>
 
 </div>
 
-<h3 align="center">💡 Building end-to-end AI, Computer Vision, Hybrid RAG, and IoT solutions that turn raw data into actionable decisions</h3>
+<h4 align="center">💡 Building end-to-end AI, Computer Vision, Hybrid RAG, and IoT solutions that turn raw data into actionable decisions</h4>
 
 ---
 
